@@ -3,4 +3,4 @@
   * Python 3.0 ou superior
   * Pygame 1.9.6 ou superior
  ## Captura da tela
-  
+  ![captura da tela](screenshot.png)
